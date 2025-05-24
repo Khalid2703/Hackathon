@@ -1,0 +1,404 @@
+[
+  {
+    "name": "Jane",
+    "score": 7.199999999999999,
+    "details": [
+      {
+        "transcription": " Hey I'm Jade I'm from Wilson USA now I don't know I can say one of the good children I was a e-gridel my college back then and I'm very passionate about",
+        "word_count": 33,
+        "filler_count": 0,
+        "keyword_score": 1,
+        "confidence_score": 12,
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.9994686245918274,
+        "final_score": 7.8999999999999995
+      },
+      {
+        "transcription": " I want to work up because I don't have a job right now currently and I'm looking for a job and your company suits up with my skills and really I like to work with you guys and yeah that's it I'm going to go ahead and let's say you before. That's it.",
+        "word_count": 53,
+        "filler_count": 2,
+        "keyword_score": 1,
+        "confidence_score": 9,
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.9981908202171326,
+        "final_score": 6.999999999999999
+      },
+      {
+        "transcription": " You should have had it because I'm kind of a jobless and I was so independent who was looking for jobs so that she can suffice herself and yeah that's it I'm kind of a passionate girl I've always been doing everything great I've always been",
+        "word_count": 46,
+        "filler_count": 2,
+        "keyword_score": 1,
+        "confidence_score": 8,
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.9962922930717468,
+        "final_score": 6.7
+      }
+    ]
+  },
+  {
+    "name": "Arun",
+    "score": 6.666666666666667,
+    "details": [
+      {
+        "transcription": " Hey, my question is tell me about yourself, my name is Sonia and yeah we are working on a We're doing fine, boys, once you get on my car wheel and do not press time. Just stay, the percentage gets ANY celibacy now.",
+        "word_count": 43,
+        "filler_count": 0,
+        "keyword_score": 0,
+        "confidence_score": 10,
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.976726770401001,
+        "final_score": 7.0
+      },
+      {
+        "transcription": " God One apply",
+        "word_count": 3,
+        "filler_count": 0,
+        "keyword_score": 0,
+        "confidence_score": 10,
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.9250134229660034,
+        "final_score": 6.6
+      },
+      {
+        "transcription": " You should hire me because I am a team leader. I am working on this for you probably long as a lot. That said, that's all from my side. Thank you so much. Bye-bye.",
+        "word_count": 35,
+        "filler_count": 1,
+        "keyword_score": 0,
+        "confidence_score": 8,
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.9995189905166626,
+        "final_score": 6.4
+      }
+    ]
+  },
+  {
+    "name": "Karan",
+    "score": 6.6000000000000005,
+    "details": [
+      {
+        "transcription": " My name is Khaddaq and I'm happy to be with you and yes let's start",
+        "word_count": 15,
+        "filler_count": 0,
+        "keyword_score": 0,
+        "confidence_score": 10,
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.9998470544815063,
+        "final_score": 7.0
+      },
+      {
+        "transcription": " I really want to work over here because I'm interested in this company and you know that I really want to work over here and that's it. That's all from my side. We have a new fresher graduates, that's it.",
+        "word_count": 40,
+        "filler_count": 1,
+        "keyword_score": 0,
+        "confidence_score": 8,
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.9989614486694336,
+        "final_score": 6.4
+      },
+      {
+        "transcription": " You should have had me because I am the perfect carrier you need and that's all from my sir and that's my house that's the building that's the moment. And that's it so looking forward to work.",
+        "word_count": 37,
+        "filler_count": 1,
+        "keyword_score": 0,
+        "confidence_score": 8,
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.9996918439865112,
+        "final_score": 6.4
+      }
+    ]
+  },
+  {
+    "name": "Priya",
+    "score": 6.099999999999999,
+    "details": [
+      {
+        "transcription": " why did we not declare\u8ddf place? when i aIAH stands before me ADI\u05d5\u05d3\u05d4",
+        "word_count": 13,
+        "filler_count": 0,
+        "keyword_score": 0,
+        "confidence_score": 10,
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.9337053894996643,
+        "final_score": 3.4
+      },
+      {
+        "transcription": " I do want to work with the company because I'm in touch with the company by the way and yeah my skills match with the company JD for which I have a plan and yeah that's it much",
+        "word_count": 38,
+        "filler_count": 0,
+        "keyword_score": 1,
+        "confidence_score": 12,
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.9995604157447815,
+        "final_score": 7.8999999999999995
+      },
+      {
+        "transcription": " You should have it because I am perfect. That's it. No one else can beat me. Yeah, that's it. Let's go. I should be higher because I know Python, I know Jenny, I know Toes.",
+        "word_count": 35,
+        "filler_count": 0,
+        "keyword_score": 0,
+        "confidence_score": 10,
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.9962767958641052,
+        "final_score": 7.0
+      }
+    ]
+  },
+  {
+    "name": "Govinda",
+    "score": 5.866666666666667,
+    "details": [
+      {
+        "transcription": " I'm going to our famous boy or actor I've worked in various movies in Hindi And yeah, I'm one of the star who's dance He's loved by everyone And I'm the cool star, you know I've done pretty number",
+        "word_count": 39,
+        "filler_count": 1,
+        "keyword_score": 0,
+        "confidence_score": 8,
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.9998749494552612,
+        "final_score": 6.4
+      },
+      {
+        "transcription": " I mean it's kind of a new field of harmony as well. I want to learn something new because the ball will be getting very good The stories are not so new and getting very creepy over there. So I would just do something X No, something better you",
+        "word_count": 49,
+        "filler_count": 3,
+        "keyword_score": 0,
+        "confidence_score": 4,
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.9241988062858582,
+        "final_score": 4.8
+      },
+      {
+        "transcription": " Yeah, you can have it because I have a good track and a lot of acting in movies and In general, whatever the thing I have to have done into good, you know, I'm kind of a very positive guy. I'm supposed to Yeah, you'll get the marketing",
+        "word_count": 48,
+        "filler_count": 1,
+        "keyword_score": 0,
+        "confidence_score": 8,
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.9995551705360413,
+        "final_score": 6.4
+      }
+    ]
+  },
+  {
+    "name": "Arjun",
+    "score": 5.666666666666667,
+    "details": [
+      {
+        "transcription": " Hi my name is Khalil and I'm really puzzling. I am from law school, you don't have any technology and this is me, I'm currently a family and I've finished with my grunt as well.",
+        "word_count": 35,
+        "filler_count": 0,
+        "keyword_score": 0,
+        "confidence_score": 10,
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.7404730916023254,
+        "final_score": 4.2
+      },
+      {
+        "transcription": " I really want to work with boss, I want money, I have a team to work with, I have the love of this location, I love the boss. And do I really think that's it from...",
+        "word_count": 36,
+        "filler_count": 0,
+        "keyword_score": 0,
+        "confidence_score": 10,
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.9993661046028137,
+        "final_score": 7.0
+      },
+      {
+        "transcription": " You should have a first and only one in the market so we can solve your problem and you know what help you with the products the last minute of the product manager also see the other parts what do you need and therefore you that's it that's my pitch",
+        "word_count": 50,
+        "filler_count": 2,
+        "keyword_score": 0,
+        "confidence_score": 6,
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.9923530220985413,
+        "final_score": 5.8
+      }
+    ]
+  },
+  {
+    "name": "Albert",
+    "score": 5.066666666666666,
+    "details": [
+      {
+        "transcription": " I'm good, I'm too much in the days, I'm currently pursuing AI and from medicine schools and you know what, let's start with the process like I really interested in this fear and I really want to work towards the company, I have researched about this as well but",
+        "word_count": 49,
+        "filler_count": 2,
+        "keyword_score": 0,
+        "confidence_score": 6,
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.9935198426246643,
+        "final_score": 5.8
+      },
+      {
+        "transcription": " I really want to work here because it's near to the Marvel Studios and the actual office and you know I really want to meet the Suppostats over there and yeah that's it. I'm really eager to work with",
+        "word_count": 39,
+        "filler_count": 1,
+        "keyword_score": 0,
+        "confidence_score": 8,
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.9993711113929749,
+        "final_score": 6.4
+      },
+      {
+        "transcription": " I'm the only person you can search in the market and that's it. I'm the only guy who has every schedule needed a whole, or as a fan beside me. Yeah, that's it from my set. Let's get together and start working on tomorrow. What do you say?",
+        "word_count": 48,
+        "filler_count": 0,
+        "keyword_score": 0,
+        "confidence_score": 10,
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.9982900023460388,
+        "final_score": 3.0
+      }
+    ]
+  },
+  {
+    "name": "Wilson",
+    "score": 5.066666666666666,
+    "details": [
+      {
+        "transcription": " I am from London. I have an income degree from Oxford University. I graduated in 2018. I am working as a sales manager currently. Where are you currently working?",
+        "word_count": 28,
+        "filler_count": 0,
+        "keyword_score": 0,
+        "confidence_score": 10,
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.9932141304016113,
+        "final_score": 3.0
+      },
+      {
+        "transcription": " I am very organized. I work on weekends if have a lot of work. I have never lit my boss down. Where do you see yourself in next fight?",
+        "word_count": 29,
+        "filler_count": 0,
+        "keyword_score": 0,
+        "confidence_score": 10,
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.9754314422607422,
+        "final_score": 7.0
+      },
+      {
+        "transcription": " We should have had a little bit more professional I have done a lot of videos in the previous company as well So please, I am sure thanks so much, that's it",
+        "word_count": 32,
+        "filler_count": 2,
+        "keyword_score": 0,
+        "confidence_score": 4,
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.9974507689476013,
+        "final_score": 5.2
+      }
+    ]
+  },
+  {
+    "name": "Weasley",
+    "score": 4.966666666666667,
+    "details": [
+      {
+        "transcription": " I am with Lee from Harry Potter's, I have the best window, Harry. And my girlfriend, my name is Ginny, not Seach, that's in my system. It's a bit Harry-Parrie.",
+        "word_count": 31,
+        "filler_count": 0,
+        "keyword_score": 0,
+        "confidence_score": 10,
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.998968243598938,
+        "final_score": 7.0
+      },
+      {
+        "transcription": " I want to work here because I love this place, I want everything from all words of which I have been using and I can still go by, because it's not either of us and anything else. It's like, can you attack it?",
+        "word_count": 43,
+        "filler_count": 1,
+        "keyword_score": 0,
+        "confidence_score": 8,
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.9622882008552551,
+        "final_score": 6.4
+      },
+      {
+        "transcription": " Sorry, I'm really bad with that. So yeah, let's do this once again. Because my girlfriend is working here.",
+        "word_count": 19,
+        "filler_count": 1,
+        "keyword_score": 0,
+        "confidence_score": 5,
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.9995536208152771,
+        "final_score": 1.5
+      }
+    ]
+  },
+  {
+    "name": "Enrique",
+    "score": 4.0,
+    "details": [
+      {
+        "transcription": " And I am an AIJ worker So this is my interface and this is the big old village recording recording recording Yeah, that's good, that's good, that's good",
+        "word_count": 28,
+        "filler_count": 1,
+        "keyword_score": 0,
+        "confidence_score": 7,
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.99982088804245,
+        "final_score": 6.1
+      },
+      {
+        "transcription": " Hey, let's go. So much for it. Get in. I need to do it. But to that.",
+        "word_count": 17,
+        "filler_count": 1,
+        "keyword_score": 0,
+        "confidence_score": 5,
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.8714513182640076,
+        "final_score": 1.9
+      }
+    ]
+  },
+  {
+    "name": "Harry",
+    "score": 2.1,
+    "details": [
+      {
+        "transcription": " My name is Harry Potter and I talk about dessert here which is crap. So yeah, I have best quality and I have to choose a keyboard. No problem.",
+        "word_count": 29,
+        "filler_count": 1,
+        "keyword_score": 0,
+        "confidence_score": 7,
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.9940298795700073,
+        "final_score": 2.1
+      }
+    ]
+  },
+  {
+    "name": "Madison",
+    "score": 2.1,
+    "details": [
+      {
+        "transcription": " Hi my name is Tukhaleed and I'm a person as a... ...accident. What's the matter? You guys are okay? Yes, but... ...tentry videos. Yeah. So, we'll be pretty as a... ...next video.",
+        "word_count": 32,
+        "filler_count": 1,
+        "keyword_score": 0,
+        "confidence_score": 7,
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.9928247928619385,
+        "final_score": 2.1
+      }
+    ]
+  },
+  {
+    "name": "Adithya",
+    "score": 0,
+    "details": []
+  },
+  {
+    "name": "Khalid",
+    "score": 0,
+    "details": []
+  },
+  {
+    "name": "khalid",
+    "score": 0,
+    "details": []
+  },
+  {
+    "name": "Sanjana",
+    "score": 0,
+    "details": []
+  }
+]
